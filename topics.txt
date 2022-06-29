@@ -3,22 +3,56 @@ Course
 		Section
 			Subsection
 				Concept
+					Interactive
 
 Calculus
 	Functions & Limits
 		Functions
 			Functions
 				One input to one output
+					We can reuse the "vending machine" from previous versions. Press a button, get an output.
+					An interactive visual function map, drawing arrows from set A to set B. User can move elements and map element to element. Only allow each element to map to one other element.
+					Another interactive map. This time elements are mapped to multiple. Explain why this is not a function.
 				Horizontal tables
+					Horizontal table with mutable elements and headers. Caption can say "this table depicts f as a function of x, its domain..."
+					Similar but the table is not a function. Encourage user to make it a function.
 				Vertical tables
-				When is a table not a function?
+					Vertical table with mutable elements and headers. Caption can say "this table depicts f as a function of x, its domain..."
+					Similar but the table is not a function. Encourage user to make it a function.
 				Multiple functions in a table
+					Horizontal table with multiple function values
+					Vertical table with multiple function values
+				Functions as formulas
+					
 				The cartesian plane
+					
 				Value of a graph
+					
 				When is a graph not a function? / Vertical line test
+					
 				Multiple functions on a graph
 
+				Functions as words
+
+					
 			Domain & Range
+				Sets
+				Intervals
+				Unions & Intersections
+				Domain & range of a table
+				Domain & range of a graph
+				Domain & range of a formula
+				Domain & range of words
 			Linear Functions
 			Increasing & Decreasing Functions
+			Practice
+					Draw a table with multiple outputs, some of which repeat. Ask the user to correct it so it only depicts functions.
+		Exponential Functions
+		Transformations, Inverse & Composite Functions
+		Logarithmic Functions
+		Trigonometric Functions
+		Models
+		Powers, Polynomials, and Rational Functions
+		Continuity
+		Limits
 			
